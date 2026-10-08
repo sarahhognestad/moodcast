@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/moodpanel.tsx","./src/components/placesearch.tsx","./src/components/playlistpanel.tsx","./src/components/weathercanvas.tsx","./src/components/weatherpanel.tsx","./src/lib/mood.ts","./src/lib/spotify.ts","./src/lib/spotifyauth.ts","./src/lib/theme.ts","./src/lib/weather.ts"],"version":"5.9.3"}
