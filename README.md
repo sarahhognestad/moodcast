@@ -6,6 +6,12 @@ som matcher. Bakgrunnen endrer farger og animasjon etter været.
 
 ## Kom i gang
 
+Her er sånn nettsiden ser ut foreløpig ut ifra dagen jeg sjekket været!
+
+![alt text](image.png)
+![alt text](image-1.png)
+
+
 ### 1. Installer avhengigheter
 
 ```bash
@@ -131,10 +137,7 @@ src/
     ├── MoodPanel.tsx           Stemningsakser og søkeord
     └── PlaylistPanel.tsx       Låteliste med smakebiter
 ```
-![alt text](image.png)
-![alt text](image-1.png)
 
-Her er sånn nettsiden foreløpig ser ut!
 
 ## Bygg for produksjon
 
