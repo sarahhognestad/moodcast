@@ -131,6 +131,10 @@ src/
     ├── MoodPanel.tsx           Stemningsakser og søkeord
     └── PlaylistPanel.tsx       Låteliste med smakebiter
 ```
+![alt text](image.png)
+![alt text](image-1.png)
+
+Her er sånn nettsiden foreløpig ser ut!
 
 ## Bygg for produksjon
 
