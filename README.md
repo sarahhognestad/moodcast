@@ -4,13 +4,12 @@ Musikk som passer været der du er. Moodcast henter været fra Open-Meteo, regne
 en stemning basert på **vær + årstid + tid på døgnet**, og bygger en Spotify-spilleliste
 som matcher. Bakgrunnen endrer farger og animasjon etter været.
 
-## Kom i gang
-
 Her er sånn nettsiden ser ut foreløpig ut ifra dagen jeg sjekket været!
 
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+## Kom i gang
 
 ### 1. Installer avhengigheter
 
